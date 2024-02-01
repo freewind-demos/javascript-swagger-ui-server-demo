@@ -3,9 +3,9 @@
     "start": "node start-swagger.js"
   },
   "dependencies": {
-    "express": "^4.16.3",
-    "http-server": "^0.11.1",
-    "lodash": "^4.17.10",
-    "swagger-ui-dist": "^3.18.2"
+    "express": "4.16.3",
+    "http-server": "0.11.1",
+    "lodash": "4.17.10",
+    "swagger-ui-dist": "3.18.2"
   }
 }
